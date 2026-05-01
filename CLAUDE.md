@@ -5,8 +5,10 @@ Refer to that file for architectural guidance or to verify the exact database st
 
 Keep your replies extremely concise and focused on key information. Avoid unnecessary details and long code snippets.
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Whenever working with any 3rd-party library or something similar, you MUST look up the official documentation to ensure that you're working with up-to-date information.
+Use the DocsExplorer subagent for efficient documenation lookup.
 
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Status
 
